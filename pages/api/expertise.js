@@ -1,7 +1,7 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
+        title: 'Full Stack Web Development',
         desc: 'I am a skilled developer with extensive experience in building web applications using Express.js, React, and Laravel. I possess a strong understanding of server-side rendering, API integration, and database management.',
     },
     {
@@ -11,8 +11,8 @@ const expertise = [
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continually develop my creative skills and grow in the field.',
+        title: 'Dev Ops',
+        desc: 'I have experience in deploying applications using GCP, OpenShift, Digital Ocean, Heroku, Vercel, and Netlify. I am also familiar with CI/CD pipelines and have experience in setting up and maintaining them.',
     },
 ]
 

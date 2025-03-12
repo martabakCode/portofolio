@@ -10,7 +10,7 @@ const PortfolioCard = ({ data }) => {
             />
             <div id="arrow" className="py-2 px-6 card_stylings hover:-translate-y-10 transition-all ease-in-out duration-500">
                 <div className="flex justify-between p-0 m-0 ">
-                    <h3 className="mr-2 text-[#F8485D] font-semibold pt-2 text-2xl text-Snow leading-tight sm:leading-normal">
+                    <h3 className="mr-2 text-[#3D8BD4] font-semibold pt-2 text-2xl text-Snow leading-tight sm:leading-normal">
                         <a
                             href={data?.url}
                             target="_blank"

@@ -1,11 +1,11 @@
 export const NAME = 'Rajendra Nohan';
 
-export const DESIGNATION = `Backend Developer | Cloud Enthusiast | GDG Semarang Team`;
+export const DESIGNATION = `Full Stack Web Developer | Cloud Enthusiast | Former GDSC Lead`;
 
 export const DETAILS = {
   Residence: 'Indonesia, Central Java',
   City: 'Semarang City',
-  Age: '21',
+  Age: '22',
 };
 
 export const SKILLS = [
@@ -19,7 +19,7 @@ export const SKILLS = [
   },
   {
     title: 'Cloud Engineer',
-    level: '40%',
+    level: '55%',
   },
   {
     title: 'Machine Learning',
@@ -28,30 +28,16 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
-  'JavaScript',
-  'ReactJS',
-  'VueJS',
-  'NextJS',
-  'Flowbite',
-  'Livewire',
-  'CSS',
-  'TailwindCSS',
-  'NodeJS',
-  'Laravel',
-  'RHEL',
-  'CentOS',
-  'Ubuntu',
   'Docker',
-  'Podman',
-  'Kubernets',
-  'Openshift',
-  'REST API',
-  'MySQL',
-  'GitHub',
-  'Jira',
-  'ClickUp',
-  'Trello',
-  'Figma',
+  'GCP',
+  'Firebase',
+  'NextJS',
+  'Flask',
+  'NodeJS',
+  'OpenShift',
+  'Odoo',
+  'AWS',
+  'Golang'
 ];
 
 export const CONTACTS = {

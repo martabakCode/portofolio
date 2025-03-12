@@ -18,11 +18,7 @@ const home = () => {
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>City:</span>
                                 <span className='text-LightGray md:text-sm'>Semarang</span>
-                            </div>
-                            <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Company:</span>
-                                <span className='text-LightGray md:text-sm'>MartabakCode</span>
-                            </div>
+                            </div>  
                         </div>
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
@@ -35,7 +31,7 @@ const home = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+62 (851) 57573144</span>
+                                <span className='text-LightGray text-sm'>+62 85157573144</span>
                             </div>
                         </div>
                     </div>
